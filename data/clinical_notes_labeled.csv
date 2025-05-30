@@ -1,0 +1,11 @@
+id,text,labels
+1,"Patient reports persistent cough, fatigue, and a history of smoking.","chronic_cough,smoking"
+2,Blood glucose levels remain high; insulin dosage increased. Diagnosed with type 2 diabetes.,diabetes
+3,No signs of depression. Occasional alcohol use reported.,alcohol_use
+4,Post-operative recovery from knee replacement is progressing well.,surgical_history
+5,Chest pain observed. Family history of hypertension and cardiovascular disease.,"hypertension,cardiovascular_disease"
+6,Reports difficulty breathing and wheezing. Diagnosed with asthma.,asthma
+7,Routine physical exam shows elevated blood pressure and BMI.,"hypertension,obesity"
+8,Patient has history of anxiety and is currently on SSRIs.,mental_health
+9,Discharged after successful appendectomy.,surgical_history
+10,Mild cognitive decline noted. Referred for neurology consultation.,cognitive_decline
